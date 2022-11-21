@@ -17,6 +17,7 @@ Sobre os temas que serão sorteados em sala:
 * IoT - Internet of Things
 * Bussiness Intelligence
 * Inteligência Artificial
+* Realidade Virtual e Aumentada (Misturada)
 
 A avaliação do seminário será feita com base na qualidade e no conteúdo da apresentação e será avaliada segundo os critérios:
 * Qualidade do material expositivo
