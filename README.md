@@ -9,6 +9,6 @@ Repositório de apoio para a disciplina, veja as pastas para aulas, atividades e
 * [Facebook sabe que o Instagram é tóxico para jovens meninas](https://noticias.r7.com/tecnologia-e-ciencia/facebook-sabe-que-o-instagram-e-toxico-para-jovens-meninas-16092021)
 * [Como o TikTok atua no cérebro e vicia jovens em seus vídeos curtos](https://exame.com/ciencia/como-o-tiktok-atua-no-cerebro-de-jovens-com-videos-curtos-e-personalizados/)
 * [Mapa de Ciberataques](https://cybermap.kaspersky.com/pt)
-
+* [VULNERABILIDADE DO LOG4J E SPRING BOOT | Como prevenir sua aplicação contra este bug](https://www.youtube.com/watch?v=KRmTzSzDE_A)
 
 <img width="300" height="500" src="https://1.bp.blogspot.com/-7ChRMPuqTJ4/Wlzz0_fh1AI/AAAAAAABa1w/zTMU3NcxrpY3JVtaUE4ui39h3HHiMrJ2gCLcBGAs/s1600/propaganda-antiga-companhia-telefonica-brasileira-1955.png" />
